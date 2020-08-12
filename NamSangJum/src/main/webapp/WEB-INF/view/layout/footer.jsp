@@ -6,7 +6,7 @@
 <%
 	String cp=request.getContextPath();
 %>
-<div id="footer0000">
+<div id="footer">
 		<div class="footer1">
 			<a href="<%=cp%>/main">이미지(로고)</a>
 		</div>
