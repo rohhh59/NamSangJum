@@ -1,16 +1,13 @@
-package com.nsj.main;
+package com.nsj.board;
 
 import org.springframework.stereotype.Controller;
 import org.springframework.web.bind.annotation.RequestMapping;
 
-@Controller("mainController")
-public class MainController {
+@Controller("board.Controller")
+public class BoardController {
 	
-	@RequestMapping("/main")
+	@RequestMapping(value="main")
 	public String main() {
-		
-		return ".main.main";
+		return ".board.main";
 	}
-	
 }
- 
