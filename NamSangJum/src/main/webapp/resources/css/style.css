@@ -1,18 +1,18 @@
 @charset "EUC-KR";
 
-.header {
+.headerMenu {
 	width: 100%;
 	background: black;
 	height: 30px;
 	text-align: center;
 }
 
-.header a {
+.headerMenu a {
 	text-decoration: none;
 	color: white;
 }
 
-.header span {
+.headerMenu span {
 	color: white;
 	text-decoration: none;
 }
@@ -20,10 +20,12 @@
 .headerimg {
 	width: 100%;
 	height: 200px;
-	line-height: 300px; 
-	margin-top: 50px;
+	line-height: 200px; 
+	text-align: center;
+	padding-top: 25px;
+	padding-bottom: 25px;
 }
-#footer0000{
+.footerMenu{
 	position: relative;
 	height: 100px;
 	background: #666666;
@@ -36,20 +38,24 @@
 	float: left;
 }
 
-#footer0000 a{
+.footerMenu a{
 	color: white;
 }
 
 .footer1{
-	width: 20%;
+	width:20%;
 	float: left;
-	height: 70px;
+	height: 100px;
 	text-align: right;
 	padding-right: 30px;
+	line-height: 100px;
 }
 .footer2{
-	width: 80%;
+	width:70%;
 	float: left;
-	height: 70px;
-	
+	height: 100px;
+	padding-left: 50px;
+	padding-top: 25px;
+	font-weight: bold;
+	font-size: 15px;
 }
