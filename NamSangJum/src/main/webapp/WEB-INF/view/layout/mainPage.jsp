@@ -24,7 +24,7 @@
 	</div>
 		
 	<div class="homepage">
-	    <tiles:insertAttribute name="body1"/>
+	    <tiles:insertAttribute name="body"/>
 	</div>
 	
 	<div class="footer">
