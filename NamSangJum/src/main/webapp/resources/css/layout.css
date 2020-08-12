@@ -1,10 +1,5 @@
 @charset "UTF-8";
 
-.header{
-    width:100%;
-    text-align:left;
-}
-
 .container{
     clear:both;
     width:100%;
@@ -13,26 +8,6 @@
 .footer{
     clear:both;
     width:100%;
-}
-
-/* header */
-.header-top{
-    margin:0px auto;
-    width: 1100px;
-    height: 70px;
-    clear: both;
-}
-
-.header-left{
-    width: 50%;
-    height: 70px;
-    float: left;
-}
-
-.header-right{
-    width: 50%;
-    height: 70px;
-    float: left;
 }
 
 /* body */
