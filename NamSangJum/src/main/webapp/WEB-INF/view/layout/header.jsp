@@ -15,6 +15,6 @@
 	<a href="">로그아웃</a>&nbsp;&nbsp;&nbsp;
 </div>
 <hr>
-<div class="headerimg">
+<div class="headerimg"> 
 	<span>이미지</span>
 </div>
